@@ -1,0 +1,13 @@
+<svg class="n-logo-svg" viewBox="225 0 552 1000" version="1.1" focusable="false" aria-hidden="true" data-uia="n-logo">
+    <g>
+        <path d="M225 0v1000c60-8 138-14 198-17V0H225" fill="#b1060e">
+        </path>
+        <path d="M579 0v983c71 3 131 9 198 17V0H579" fill="#b1060e">
+        </path>
+        <path d="M225 0v200l198 600V557l151 426c76 3 136 9 203 17V800L579 200v240L423 0H225"
+            fill="url(#:R2d6l9kl4l:-a)">
+        </path>
+        <path d="M225 0l349 983c76 3 136 9 203 17L423 0H225" fill="#e50914">
+        </path>
+    </g>
+</svg>
